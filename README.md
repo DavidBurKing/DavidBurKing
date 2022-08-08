@@ -1,5 +1,5 @@
 <h1 align="center"> Bem-Vindo(a) ao meu Github </h2>
-<p align="center" font-size="20px">
+<p align="center" style="font-size: 50px;">
 • Me chamo Davi, tenho 15 anos.
 <br>
 • Aprendendo <b>JavaScript</b>, <b>HTML</b> e <b>CSS</b>.
