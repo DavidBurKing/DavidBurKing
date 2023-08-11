@@ -2,7 +2,7 @@
 <p align="center">
 • Me chamo Davi, tenho 16 anos.
 <br>
-• Aprendendo <b>JavaScript</b>, <b>HTML</b> e <b>CSS</b>.
+• Aprendendo <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b> e <b>Tailwind CSS</b>.
 </p>
 
 <div align="center">
