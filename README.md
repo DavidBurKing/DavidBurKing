@@ -1,6 +1,6 @@
 <h1 align="center"> Bem-Vindo(a) ao meu Github </h2>
 <p align="center">
-• Me chamo Davi, tenho 16 anos.
+• Me chamo Davi, tenho 18 anos.
 <br>
 • Aprendendo <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b> e <b>Tailwind CSS</b>.
 </p>
